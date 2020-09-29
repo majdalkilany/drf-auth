@@ -1,4 +1,4 @@
-# Name of Peoject: django models
+# Name of Peoject: drf-auth
 
 
 ### Estimate of time needed to complete: 2 h
@@ -7,7 +7,7 @@
 
 Start time: 2:00 pm
 
-Finish time: 3:30 pm
+Finish time: 4:00 pm
 
-Actual time needed to complete: 1.5 h
+Actual time needed to complete: 2 h
 
